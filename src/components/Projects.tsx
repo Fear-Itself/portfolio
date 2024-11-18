@@ -10,11 +10,11 @@ const projects = [
     live: "https://meowmatch.netlify.app/"
   },
   {
-    title: "COMING SOON",
-    description: "Will be added soon",
-    tech: ["COMINGSOON"],
-    github: "#",
-    live: "#"
+    title: "FearOS",
+    description: "My own OS in the browser",
+    tech: ["Typescript", "React", "HTML", "CSS"],
+    github: "https://github.com/Fear-Itself/fearos",
+    live: "https://fearos.netlify.app/"
   },
   {
     title: "COMING SOON",

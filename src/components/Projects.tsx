@@ -3,23 +3,23 @@ import { Github, ExternalLink, FolderGit2, Star } from 'lucide-react';
 
 const projects = [
   {
-    title: "Project Whiskers",
-    description: "An elegant data visualization platform that transforms complex datasets into intuitive, interactive charts and graphs",
-    tech: ["React", "D3.js", "TypeScript"],
+    title: "COMING SOON",
+    description: "Will be added soon!",
+    tech: ["COMINGSOON"],
     github: "#",
     live: "#"
   },
   {
-    title: "Purr-fect API",
-    description: "High-performance RESTful API service with comprehensive documentation and robust error handling",
-    tech: ["Node.js", "Express", "MongoDB"],
+    title: "COMING SOON",
+    description: "Will be added soon",
+    tech: ["COMINGSOON"],
     github: "#",
     live: "#"
   },
   {
-    title: "Meow Messenger",
-    description: "Secure, feature-rich chat application with real-time message delivery and sleek user interface",
-    tech: ["React", "Socket.io", "Firebase"],
+    title: "COMING SOON",
+    description: "Will be added soon",
+    tech: ["COMINGSOON"],
     github: "#",
     live: "#"
   }

@@ -7,6 +7,8 @@ const skills = [
   "React",
   "Node.js",
   "Java",
+  "HTML",
+  "CSS",
   "SQL"
 ];
 

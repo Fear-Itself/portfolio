@@ -25,7 +25,7 @@ export default function About() {
           <div className="space-y-6">
             <p className="text-lg text-zinc-700 leading-relaxed">
               I'm a passionate developer who loves crafting elegant solutions to complex problems. 
-              When I'm not coding, you might find me exploring new coffee shops or playing with my cat.
+              When I'm not coding, you might find me exploring new candy shops or playing with my cat.
             </p>
             
             <div className="flex items-center gap-2 text-zinc-700">
@@ -35,7 +35,7 @@ export default function About() {
 
             <div className="flex items-center gap-2 text-zinc-700">
               <Coffee className="w-5 h-5 text-amber-600" />
-              <span>Fueled by coffee and curiosity</span>
+              <span>Fueled by candy and curiosity</span>
             </div>
           </div>
 

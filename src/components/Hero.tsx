@@ -18,7 +18,7 @@ export default function Hero() {
         </div>
         
         <p className="text-xl text-zinc-600 mb-8 max-w-2xl mx-auto animate-fade-in">
-          Turning coffee into code and ideas into reality, one purr-fect solution at a time.
+          Turning gummy bears into code and ideas into reality, one purr-fect solution at a time.
         </p>
         
         <div className="flex gap-4 justify-center">

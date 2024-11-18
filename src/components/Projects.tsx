@@ -3,11 +3,11 @@ import { Github, ExternalLink, FolderGit2, Star } from 'lucide-react';
 
 const projects = [
   {
-    title: "COMING SOON",
-    description: "Will be added soon!",
-    tech: ["COMINGSOON"],
-    github: "#",
-    live: "#"
+    title: "MeowMatch",
+    description: "Tinder but for cats!",
+    tech: ["Typescript", "React", "HTML", "CSS"],
+    github: "https://github.com/Fear-Itself/meowmatch",
+    live: "https://meowmatch.netlify.app/"
   },
   {
     title: "COMING SOON",

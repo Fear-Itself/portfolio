@@ -17,11 +17,11 @@ const projects = [
     live: "https://fearos.netlify.app/"
   },
   {
-    title: "COMING SOON",
-    description: "Will be added soon",
-    tech: ["COMINGSOON"],
+    title: "FearJS",
+    description: "My own coding laungage!",
+    tech: ["FearJS"],
     github: "#",
-    live: "#"
+    live: "https://fearjs.netlify.app/"
   }
 ];
 
